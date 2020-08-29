@@ -1,6 +1,6 @@
 // JavaScript source code
 
-console.log("Welcome to notes app. This is app.js");
+console.log("Welcome to Mantra Notes.");
 showNotes();
 
 // If user adds a note, add it to the localStorage
